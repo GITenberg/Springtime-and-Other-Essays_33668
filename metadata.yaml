@@ -1,0 +1,33 @@
+_repo: Springtime-and-Other-Essays_33668
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Darwin, Francis, Sir
+    alias: Darwin, Sir Francis
+    birthdate: 1848
+    deathdate: 1925
+    gutenberg_agent_id: '1807'
+    url: http://www.gutenberg.org/2009/agents/1807
+    wikipedia: http://en.wikipedia.org/wiki/Francis_Darwin
+description: ''
+gutenberg_issued: '2010-09-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33668'
+  lccn: '20009511'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Essays'
+- !lcc 'AC'
+tableOfContents: Springtime -- Some names of characters in fiction -- Thomas Hearne,
+  1678-1735 -- Recollections -- Old instruments of music -- The traditional names
+  of English plants -- Sir Joseph Dalton Hooker -- A great hospital [St. Bartholomew's]
+  -- Sir George Airy -- Sydney Smith -- Charles Dickens -- A procession of flowers.
+title: Springtime and Other Essays
+url: http://www.gutenberg.org/ebooks/33668
